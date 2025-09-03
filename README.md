@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑‍💻 Software Developer turned Data Science Explorer – Years of experience in C#, JavaScript & SQL, now building skills in Python, AI & ML.<br><br>📊 Data Enthusiast – interested in turning raw data into clear, actionable insights.<br><br>🚀 Continuous Learner – currently pursuing a Master’s in Data Science in Germany.<br><br>🌱 Growing step by step – exploring NLP, XAI, and applied ML projects.<br><br>🤝 Open to collaboration – enjoy learning from others and contributing to meaningful projects.
+# 👋 Hi, I'm Sadia!
+🧑‍💻 Software Developer turned Data Science Explorer – Years of experience in C#, JavaScript & SQL, now building skills in Python, AI & ML.<br><br>📊 Interested in turning raw data into clear, actionable insights.<br><br>🚀 Currently pursuing a Master’s in Data Science in Germany.<br><br>🌱 Exploring NLP, XAI, and applied ML projects.<br><br>🤝 Open to collaboration – enjoy learning from others and contributing to meaningful projects.
 
 
 ## 🌐 Socials:
