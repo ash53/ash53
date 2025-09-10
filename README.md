@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sadia!
-🧑‍💻 Software Developer turned Data Science Explorer – Years of experience in C#, JavaScript & SQL, now building skills in Python, AI & ML.<br><br>📊 Interested in turning raw data into clear, actionable insights.<br><br>🚀 Currently pursuing a Master’s in Data Science in Germany.<br><br>🌱 Exploring NLP, XAI, and applied ML projects.<br><br>🤝 Open to collaboration – enjoy learning from others and contributing to meaningful projects.
-
+🧑‍💻 Currently pursuing an M.Sc. in Data Science, building skills in AI & ML.<br><br>📊 Learning n8n as a new hobby.<br><br>🌱 Exploring NLP, XAI, and applied ML projects with hands-on practice.<br><br>🚀 Passionate about turning data into real-world solutions.<br><br>🤝 Open to collaboration and knowledge-sharing
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@paintedsuitcase) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sadia-zaman-b282208a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadia.easha@gmail.com) 
