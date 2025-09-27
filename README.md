@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Sadia!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sadiazaman26) [![portfolio](https://github.com/ash53/portfolio-pastel-theme/blob/main/public/favicon-16x16.png)](https://www.sadiazaman.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadia.easha@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sadiazaman26)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadia.easha@gmail.com) 
+[![portfolio](https://github.com/ash53/portfolio-pastel-theme/blob/main/public/favicon-16x16.png)](https://www.sadiazaman.com/)
 
 
 🧑‍💻 Currently pursuing an M.Sc. in Data Science, building skills in AI & ML.<br><br>📊 Learning n8n as a new hobby.<br><br>🌱 Exploring NLP, XAI, and applied ML projects with hands-on practice.<br><br>🚀 Passionate about turning data into real-world solutions.<br><br>🤝 Open to collaboration and knowledge-sharing
